@@ -1,0 +1,42 @@
+[
+  {
+    "id": "opening-swarm",
+    "name": "Opening Swarm",
+    "start": 0,
+    "end": 240,
+    "kind": "swarm",
+    "spawnInterval": 1.2,
+    "spawnBatch": 2,
+    "roles": ["stalker", "charger", "splitter"]
+  },
+  {
+    "id": "mid-pressure",
+    "name": "Mid Pressure",
+    "start": 240,
+    "end": 480,
+    "kind": "rush",
+    "spawnInterval": 0.9,
+    "spawnBatch": 3,
+    "roles": ["stalker", "charger", "ranged", "shield", "splitter"]
+  },
+  {
+    "id": "late-chaos",
+    "name": "Late Chaos",
+    "start": 480,
+    "end": 720,
+    "kind": "encircle",
+    "spawnInterval": 0.65,
+    "spawnBatch": 4,
+    "roles": ["charger", "ranged", "summoner", "shield", "splitter", "encircler"]
+  },
+  {
+    "id": "overtime",
+    "name": "Overtime",
+    "start": 720,
+    "end": 100000,
+    "kind": "boss",
+    "spawnInterval": 0.55,
+    "spawnBatch": 4,
+    "roles": ["charger", "ranged", "summoner", "encircler"]
+  }
+]

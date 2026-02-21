@@ -1,0 +1,10 @@
+[
+  { "id": "wand", "name": "Magic Wand", "desc": "Auto fires at nearest enemy" },
+  { "id": "garlic", "name": "Garlic", "desc": "Aura that melts nearby foes" },
+  { "id": "whip", "name": "Whip", "desc": "Horizontal burst strike" },
+  { "id": "bible", "name": "King Bible", "desc": "Orbiting holy projectiles" },
+  { "id": "frost", "name": "Frost Nova", "desc": "Pulse damage and slow" },
+  { "id": "chain", "name": "Chain Lightning", "desc": "Jumps between enemies" },
+  { "id": "drone", "name": "Drone Swarm", "desc": "Orbiting drones that shred packs" },
+  { "id": "mine", "name": "Mine Layer", "desc": "Drops traps that explode on touch" }
+]

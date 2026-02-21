@@ -1,0 +1,12 @@
+[
+  {
+    "id": "snake-king",
+    "name": "Snake King",
+    "spawnTime": 60,
+    "hp": 1600,
+    "speed": 95,
+    "radius": 36,
+    "color": "#e74c3c",
+    "phases": 3
+  }
+]

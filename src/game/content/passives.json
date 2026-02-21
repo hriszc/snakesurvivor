@@ -1,0 +1,12 @@
+[
+  { "id": "speed", "name": "Boots", "desc": "+12% movement speed" },
+  { "id": "maxhp", "name": "Heart", "desc": "+40 max HP" },
+  { "id": "regen", "name": "Regen", "desc": "+0.6 HP/s" },
+  { "id": "armor", "name": "Scale Guard", "desc": "Flat damage reduction over time" },
+  { "id": "might", "name": "Might", "desc": "+12% outgoing damage" },
+  { "id": "cooldown", "name": "Hourglass", "desc": "-8% weapon cooldown" },
+  { "id": "radius", "name": "Arc Amplifier", "desc": "+10% aura and pickup radius" },
+  { "id": "luck", "name": "Fortune Eye", "desc": "Better drop chance" },
+  { "id": "thorns", "name": "Thorns", "desc": "Reflect contact damage" },
+  { "id": "lifesteal", "name": "Blood Pact", "desc": "Recover on kill" }
+]

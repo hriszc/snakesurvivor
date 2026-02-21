@@ -1,0 +1,38 @@
+[
+  {
+    "id": "storm-sigil",
+    "name": "Storm Sigil",
+    "desc": "Chain attacks gain extra jumps and cooldown",
+    "requires": ["chain", "cooldown"]
+  },
+  {
+    "id": "blood-oath",
+    "name": "Blood Oath",
+    "desc": "Melee attacks grant burst healing",
+    "requires": ["whip", "lifesteal"]
+  },
+  {
+    "id": "frozen-core",
+    "name": "Frozen Core",
+    "desc": "Frost pulses freeze and shatter targets",
+    "requires": ["frost", "armor"]
+  },
+  {
+    "id": "gravity-well",
+    "name": "Gravity Well",
+    "desc": "Aura and bible pull enemies inward",
+    "requires": ["garlic", "radius"]
+  },
+  {
+    "id": "berserker-loop",
+    "name": "Berserker Loop",
+    "desc": "Low HP grants damage and speed spikes",
+    "requires": ["might", "maxhp"]
+  },
+  {
+    "id": "echo-battery",
+    "name": "Echo Battery",
+    "desc": "Projectiles duplicate periodically",
+    "requires": ["wand", "drone"]
+  }
+]
